@@ -1,0 +1,58 @@
+{
+  "lessons": [
+    {
+      "n": 1,
+      "date": "2026-10-23",
+      "title": "Greetings and introductions",
+      "titleAr": "التَّحِيَّةُ وَالتَّعَارُفُ"
+    },
+    {
+      "n": 2,
+      "date": "2026-10-26",
+      "title": "This is my office",
+      "titleAr": "هٰذَا مَكْتَبِي"
+    },
+    {
+      "n": 3,
+      "date": "2026-10-27",
+      "title": "My family",
+      "titleAr": "عَائِلَتِي"
+    },
+    {
+      "n": 4,
+      "date": "2026-10-28",
+      "title": "Where is my phone?",
+      "titleAr": "أَيْنَ هَاتِفِي؟"
+    },
+    {
+      "n": 5,
+      "date": "2026-10-29",
+      "title": "Your company and mine",
+      "titleAr": "شَرِكَتُكِ وَشَرِكَتِي"
+    },
+    {
+      "n": 6,
+      "date": "2026-10-30",
+      "title": "My morning",
+      "titleAr": "مَاذَا تَفْعَلُ فِي الصَّبَاحِ؟"
+    },
+    {
+      "n": 7,
+      "date": "2026-10-31",
+      "title": "Review: a visit to the office",
+      "titleAr": "مُرَاجَعَةٌ: زِيَارَةٌ إِلَى الْمَكْتَبِ"
+    },
+    {
+      "n": 8,
+      "date": "2026-11-01",
+      "title": "He works, she works",
+      "titleAr": "هُوَ يَعْمَلُ وَهِيَ تَعْمَلُ"
+    },
+    {
+      "n": 9,
+      "date": "2026-11-02",
+      "title": "Our Monday meeting",
+      "titleAr": "اِجْتِمَاعُنَا يَوْمَ الِاثْنَيْنِ"
+    }
+  ]
+}

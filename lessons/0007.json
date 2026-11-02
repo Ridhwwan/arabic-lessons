@@ -1,0 +1,156 @@
+{
+  "n": 7,
+  "date": "2026-10-31",
+  "title": "Review: a visit to the office",
+  "titleAr": "مُرَاجَعَةٌ: زِيَارَةٌ إِلَى الْمَكْتَبِ",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "أَنَا مِنْ نَيْجِيرِيَا.",
+          "en": "I'm from Nigeria."
+        },
+        {
+          "ar": "الْبَابُ مَفْتُوحٌ.",
+          "en": "The door is open."
+        },
+        {
+          "ar": "أَقْرَأُ الْأَخْبَارَ.",
+          "en": "I read the news."
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "صَبَاحَ الْخَيْرِ يَا رِضْوَانُ، كَيْفَ حَالُكَ؟",
+          "en": "Good morning, Ridhwan. How are you?",
+          "who": "ب"
+        },
+        {
+          "ar": "صَبَاحَ النُّورِ. بِخَيْرٍ، وَالْحَمْدُ لِلَّهِ.",
+          "en": "Good morning. Fine, praise be to Allah.",
+          "who": "أ"
+        },
+        {
+          "ar": "هَلْ هٰذَا مَكْتَبُكَ؟",
+          "en": "Is this your office?",
+          "who": "ب"
+        },
+        {
+          "ar": "نَعَمْ. وَهٰذِهِ زَمِيلَتِي فَاطِمَةُ، هِيَ مُصَمِّمَةٌ.",
+          "en": "Yes. And this is my colleague Fatima. She's a designer.",
+          "who": "أ"
+        },
+        {
+          "ar": "وَأَيْنَ مَكْتَبُهَا؟",
+          "en": "And where is her office?",
+          "who": "ب"
+        },
+        {
+          "ar": "مَكْتَبُهَا هُنَاكَ، وَحَاسُوبُهَا عَلَى الطَّاوِلَةِ.",
+          "en": "Her office is over there, and her computer is on the table.",
+          "who": "أ"
+        },
+        {
+          "ar": "هَلْ تَشْرَبُ الشَّايَ؟",
+          "en": "Do you drink tea?",
+          "who": "أ"
+        },
+        {
+          "ar": "لَا، أَشْرَبُ الْقَهْوَةَ. وَكَيْفَ أَخُوكَ يُوسُفُ؟",
+          "en": "No, I drink coffee. And how is your brother Yusuf?",
+          "who": "ب"
+        },
+        {
+          "ar": "أَخِي بِخَيْرٍ. هُوَ طَالِبٌ فِي لَاغُوسَ.",
+          "en": "My brother is fine. He's a student in Lagos.",
+          "who": "أ"
+        },
+        {
+          "ar": "شُكْرًا جَزِيلًا يَا رِضْوَانُ!",
+          "en": "Thank you very much, Ridhwan!",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. Review day: a friend visits Ridhwan at the office. Everything here comes from lessons one to six."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "مَكْتَبُكَ",
+          "en": "your office, to a man"
+        },
+        {
+          "ar": "مَكْتَبُكِ",
+          "en": "your office, to a woman"
+        },
+        {
+          "ar": "مَكْتَبُهُ",
+          "en": "his office"
+        },
+        {
+          "ar": "مَكْتَبُهَا",
+          "en": "her office"
+        }
+      ],
+      "note": "No new grammar today. Let's recap the possessive endings: ee for my, ka for your to a man, ki for your to a woman, hu for his, and haa for her."
+    },
+    {
+      "heading": "Word builder: the root daal, raa, seen, meaning studying",
+      "lines": [
+        {
+          "ar": "دَرَسَ",
+          "en": "he studied"
+        },
+        {
+          "ar": "دَارِسٌ",
+          "en": "one who studies, the doer"
+        },
+        {
+          "ar": "مَدْرَسَةٌ",
+          "en": "a school, the place of studying"
+        },
+        {
+          "ar": "مَدْرُوسٌ",
+          "en": "studied, or well thought out, the thing that is studied"
+        }
+      ],
+      "note": "No new pattern today, just patterns you know. Daaris uses faa-il, the doer. Madrasa is maf-al, the place, with the feminine ending. Madroos is maf-ool, the thing done to."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "هَلْ تَعْمَلُ فِي الْبَيْتِ أَحْيَانًا؟",
+          "en": "Do you sometimes work at home?"
+        },
+        {
+          "ar": "نَعَمْ، أَحْيَانًا أَعْمَلُ فِي الْبَيْتِ.",
+          "en": "Model answer: Yes, sometimes I work at home."
+        },
+        {
+          "ar": "أَيْنَ مَكْتَبُ زَمِيلِكَ؟",
+          "en": "Where is your colleague's office?"
+        },
+        {
+          "ar": "مَكْتَبُهُ هُنَاكَ، فِي الشَّرِكَةِ.",
+          "en": "Model answer: His office is over there, in the company."
+        },
+        {
+          "ar": "مَاذَا تَقْرَأُ فِي الصَّبَاحِ؟",
+          "en": "What do you read in the morning?"
+        },
+        {
+          "ar": "أَقْرَأُ الْأَخْبَارَ، ثُمَّ أَعْمَلُ.",
+          "en": "Model answer: I read the news, then I work."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

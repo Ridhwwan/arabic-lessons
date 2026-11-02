@@ -1,0 +1,156 @@
+{
+  "n": 6,
+  "date": "2026-10-30",
+  "title": "My morning",
+  "titleAr": "مَاذَا تَفْعَلُ فِي الصَّبَاحِ؟",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "مَسَاءَ الْخَيْرِ.",
+          "en": "Good evening."
+        },
+        {
+          "ar": "شَرِكَتُهَا فِي أَبُوجَا.",
+          "en": "Her company is in Abuja."
+        },
+        {
+          "ar": "الْحَقِيبَةُ تَحْتَ الْكُرْسِيِّ.",
+          "en": "The bag is under the chair."
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "صَبَاحَ الْخَيْرِ يَا رِضْوَانُ.",
+          "en": "Good morning, Ridhwan.",
+          "who": "أ"
+        },
+        {
+          "ar": "صَبَاحَ النُّورِ.",
+          "en": "Good morning.",
+          "who": "ب"
+        },
+        {
+          "ar": "مَاذَا تَشْرَبُ فِي الصَّبَاحِ؟",
+          "en": "What do you drink in the morning?",
+          "who": "أ"
+        },
+        {
+          "ar": "أَشْرَبُ الشَّايَ. وَأَنْتَ؟",
+          "en": "I drink tea. And you?",
+          "who": "ب"
+        },
+        {
+          "ar": "أَنَا أَشْرَبُ الْقَهْوَةَ.",
+          "en": "I drink coffee.",
+          "who": "أ"
+        },
+        {
+          "ar": "هَلْ تَذْهَبُ إِلَى الْمَكْتَبِ كُلَّ يَوْمٍ؟",
+          "en": "Do you go to the office every day?",
+          "who": "أ"
+        },
+        {
+          "ar": "لَا، أَحْيَانًا أَعْمَلُ فِي الْبَيْتِ.",
+          "en": "No, sometimes I work at home.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَمَاذَا تَفْعَلُ فِي الصَّبَاحِ؟",
+          "en": "And what do you do in the morning?",
+          "who": "أ"
+        },
+        {
+          "ar": "أَقْرَأُ الْأَخْبَارَ، ثُمَّ أَكْتُبُ الْبَرَامِجَ.",
+          "en": "I read the news, then I write programs.",
+          "who": "ب"
+        },
+        {
+          "ar": "أَنْتَ نَشِيطٌ جِدًّا!",
+          "en": "You're very active!",
+          "who": "أ"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. A colleague asks Ridhwan about his mornings."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "أَكْتُبُ",
+          "en": "I write"
+        },
+        {
+          "ar": "تَكْتُبُ",
+          "en": "you write, to a man"
+        },
+        {
+          "ar": "أَعْمَلُ فِي لَاغُوسَ.",
+          "en": "I work in Lagos."
+        },
+        {
+          "ar": "أَيْنَ تَعْمَلُ؟",
+          "en": "Where do you work?"
+        }
+      ],
+      "note": "Present tense verbs take a prefix. Start with a for I, and ta for you, speaking to a man. Both end in u: aktubu, I write, and taktubu, you write."
+    },
+    {
+      "heading": "Word builder: the root qaaf, raa, hamza, meaning reading",
+      "lines": [
+        {
+          "ar": "قَرَأَ",
+          "en": "he read"
+        },
+        {
+          "ar": "قَارِئٌ",
+          "en": "a reader, the one who reads"
+        },
+        {
+          "ar": "مَقْرُوءٌ",
+          "en": "read, the thing that is read"
+        },
+        {
+          "ar": "قِرَاءَةٌ",
+          "en": "reading, the activity"
+        }
+      ],
+      "note": "You know faa-il, the doer, and maf-ool, the thing done to. Today's new pattern is fi-aala, the name of the activity itself. Qiraa-a means reading, as a habit or a hobby."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "مَاذَا تَشْرَبُ فِي الصَّبَاحِ؟",
+          "en": "What do you drink in the morning?"
+        },
+        {
+          "ar": "أَشْرَبُ الشَّايَ فِي الصَّبَاحِ.",
+          "en": "Model answer: I drink tea in the morning."
+        },
+        {
+          "ar": "أَيْنَ تَعْمَلُ الْيَوْمَ؟",
+          "en": "Where are you working today?"
+        },
+        {
+          "ar": "أَعْمَلُ فِي الْمَكْتَبِ الْيَوْمَ.",
+          "en": "Model answer: I'm working at the office today."
+        },
+        {
+          "ar": "مَاذَا تَكْتُبُ فِي الْعَمَلِ؟",
+          "en": "What do you write at work?"
+        },
+        {
+          "ar": "أَكْتُبُ الْبَرَامِجَ لِشَرِكَتِي.",
+          "en": "Model answer: I write programs for my company."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

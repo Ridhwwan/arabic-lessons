@@ -1,0 +1,156 @@
+{
+  "n": 4,
+  "date": "2026-10-28",
+  "title": "Where is my phone?",
+  "titleAr": "أَيْنَ هَاتِفِي؟",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "عِنْدِي أَخٌ وَأُخْتٌ.",
+          "en": "I have a brother and a sister."
+        },
+        {
+          "ar": "اِسْمُهَا عَائِشَةُ.",
+          "en": "Her name is Aisha."
+        },
+        {
+          "ar": "هٰذَا حَاسُوبِي.",
+          "en": "This is my computer."
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "أَيْنَ هَاتِفِي؟",
+          "en": "Where is my phone?",
+          "who": "أ"
+        },
+        {
+          "ar": "هَاتِفُكَ عَلَى الْمَكْتَبِ.",
+          "en": "Your phone is on the desk.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَأَيْنَ الْمِفْتَاحُ؟",
+          "en": "And where is the key?",
+          "who": "أ"
+        },
+        {
+          "ar": "الْمِفْتَاحُ فِي الْحَقِيبَةِ.",
+          "en": "The key is in the bag.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَأَيْنَ الْحَقِيبَةُ؟",
+          "en": "And where is the bag?",
+          "who": "أ"
+        },
+        {
+          "ar": "الْحَقِيبَةُ تَحْتَ الْكُرْسِيِّ.",
+          "en": "The bag is under the chair.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَالْحَاسُوبُ؟",
+          "en": "And the computer?",
+          "who": "أ"
+        },
+        {
+          "ar": "الْحَاسُوبُ عَلَى الطَّاوِلَةِ، هُنَاكَ.",
+          "en": "The computer is on the table, over there.",
+          "who": "ب"
+        },
+        {
+          "ar": "شُكْرًا جَزِيلًا!",
+          "en": "Thank you very much!",
+          "who": "أ"
+        },
+        {
+          "ar": "عَفْوًا.",
+          "en": "You're welcome.",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. Ridhwan is getting ready to leave the office."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "فِي الْبَيْتِ",
+          "en": "in the house"
+        },
+        {
+          "ar": "عَلَى الطَّاوِلَةِ",
+          "en": "on the table"
+        },
+        {
+          "ar": "تَحْتَ الْكُرْسِيِّ",
+          "en": "under the chair"
+        },
+        {
+          "ar": "الْقَلَمُ فِي الْمَكْتَبِ.",
+          "en": "The pen is in the office."
+        }
+      ],
+      "note": "Fee means in, alaa means on, and tahta means under. The noun after them ends in an ee or i sound, the kasra: al-kursiyy becomes al-kursiyyi, under the chair."
+    },
+    {
+      "heading": "Word builder: the root faa, taa, haa, meaning opening",
+      "lines": [
+        {
+          "ar": "فَتَحَ",
+          "en": "he opened"
+        },
+        {
+          "ar": "مِفْتَاحٌ",
+          "en": "a key, the tool for opening"
+        },
+        {
+          "ar": "مَفْتُوحٌ",
+          "en": "open, the thing that is opened"
+        },
+        {
+          "ar": "الْبَابُ مَفْتُوحٌ.",
+          "en": "The door is open."
+        }
+      ],
+      "note": "You know faa-il, maf-al, maf-ool and fa-eel. Today's new pattern is mif-aal, the tool you use for the action. Miftaah, a key, is the tool for opening. Maftooh uses maf-ool: the thing that is opened."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "أَيْنَ هَاتِفُكَ الْآنَ؟",
+          "en": "Where is your phone now?"
+        },
+        {
+          "ar": "هَاتِفِي عَلَى الطَّاوِلَةِ.",
+          "en": "Model answer: My phone is on the table."
+        },
+        {
+          "ar": "أَيْنَ حَاسُوبُكَ؟",
+          "en": "Where is your computer?"
+        },
+        {
+          "ar": "حَاسُوبِي فِي الْحَقِيبَةِ.",
+          "en": "Model answer: My computer is in the bag."
+        },
+        {
+          "ar": "أَيْنَ مَكْتَبُكَ؟",
+          "en": "Where is your office?"
+        },
+        {
+          "ar": "مَكْتَبِي فِي لَاغُوسَ.",
+          "en": "Model answer: My office is in Lagos."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

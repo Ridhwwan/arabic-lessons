@@ -1,0 +1,156 @@
+{
+  "n": 9,
+  "date": "2026-11-02",
+  "title": "Our Monday meeting",
+  "titleAr": "اِجْتِمَاعُنَا يَوْمَ الِاثْنَيْنِ",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "يَكْتُبُ الْبَرَامِجَ.",
+          "en": "He writes programs."
+        },
+        {
+          "ar": "تَرْسُمُ تَصْمِيمًا جَدِيدًا.",
+          "en": "She's drawing a new design."
+        },
+        {
+          "ar": "هَلْ هٰذَا مَكْتَبُكَ؟",
+          "en": "Is this your office?"
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "صَبَاحَ الْخَيْرِ. مَاذَا نَفْعَلُ الْيَوْمَ؟",
+          "en": "Good morning. What do we do today?",
+          "who": "أ"
+        },
+        {
+          "ar": "الْيَوْمَ يَوْمُ الِاثْنَيْنِ، وَعِنْدَنَا اجْتِمَاعٌ.",
+          "en": "Today is Monday, and we have a meeting.",
+          "who": "ب"
+        },
+        {
+          "ar": "أَيْنَ نَجْلِسُ؟",
+          "en": "Where do we sit?",
+          "who": "أ"
+        },
+        {
+          "ar": "نَجْلِسُ فِي الْمَكْتَبِ الْكَبِيرِ.",
+          "en": "We sit in the big office.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَمَاذَا نَفْعَلُ فِي الِاجْتِمَاعِ؟",
+          "en": "And what do we do in the meeting?",
+          "who": "أ"
+        },
+        {
+          "ar": "نَتَكَلَّمُ عَنِ الْمَشَارِيعِ، ثُمَّ نَكْتُبُ خُطَّةَ الْأُسْبُوعِ.",
+          "en": "We talk about the projects, then we write the plan for the week.",
+          "who": "ب"
+        },
+        {
+          "ar": "هَلْ نَشْرَبُ الْقَهْوَةَ أَيْضًا؟",
+          "en": "Do we drink coffee too?",
+          "who": "أ"
+        },
+        {
+          "ar": "طَبْعًا! نَشْرَبُ الْقَهْوَةَ وَالشَّايَ مَعًا.",
+          "en": "Of course! We drink coffee and tea together.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَبَعْدَ الِاجْتِمَاعِ؟",
+          "en": "And after the meeting?",
+          "who": "أ"
+        },
+        {
+          "ar": "نَعْمَلُ، كُلُّ وَاحِدٍ فِي مَكْتَبِهِ.",
+          "en": "We work, each one at his own desk.",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. It's Monday morning, and a new team member asks Ridhwan about the day."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "نَكْتُبُ",
+          "en": "we write"
+        },
+        {
+          "ar": "نَحْنُ نَعْمَلُ فِي لَاغُوسَ.",
+          "en": "We work in Lagos."
+        },
+        {
+          "ar": "مَاذَا نَفْعَلُ الْيَوْمَ؟",
+          "en": "What do we do today?"
+        },
+        {
+          "ar": "مَكْتَبُنَا فِي لَاغُوسَ.",
+          "en": "Our office is in Lagos."
+        }
+      ],
+      "note": "For we, the present tense starts with na: naktubu, we write. You can add nahnu, we, but you don't need it. The ending naa also means our: maktabunaa, our office, and indanaa, we have."
+    },
+    {
+      "heading": "Word builder: the root jeem, meem, ain, meaning gathering",
+      "lines": [
+        {
+          "ar": "جَمَعَ",
+          "en": "he gathered"
+        },
+        {
+          "ar": "جَامِعَةٌ",
+          "en": "a university, from faa-il: the one that gathers people"
+        },
+        {
+          "ar": "مَجْمُوعَةٌ",
+          "en": "a group, from maf-ool: the things gathered"
+        },
+        {
+          "ar": "اِجْتِمَاعٌ",
+          "en": "a meeting, from ifti-aal"
+        }
+      ],
+      "note": "You know faa-il, the doer, and maf-ool, the thing done to. Today's new pattern is ifti-aal, often an action people do together. Ijtimaa means a meeting: people gathering."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "هَلْ عِنْدَكَ اجْتِمَاعٌ الْيَوْمَ؟",
+          "en": "Do you have a meeting today?"
+        },
+        {
+          "ar": "نَعَمْ، عِنْدِي اجْتِمَاعٌ مَعَ فَرِيقِي.",
+          "en": "Model answer: Yes, I have a meeting with my team."
+        },
+        {
+          "ar": "مَاذَا تَفْعَلُ مَعَ فَرِيقِكَ فِي الصَّبَاحِ؟",
+          "en": "What do you do with your team in the morning?"
+        },
+        {
+          "ar": "نَشْرَبُ الشَّايَ، ثُمَّ نَعْمَلُ مَعًا.",
+          "en": "Model answer: We drink tea, then we work together."
+        },
+        {
+          "ar": "أَيْنَ تَعْمَلُ أَنْتَ وَفَرِيقُكَ؟",
+          "en": "Where do you and your team work?"
+        },
+        {
+          "ar": "نَعْمَلُ فِي مَكْتَبِنَا فِي لَاغُوسَ.",
+          "en": "Model answer: We work in our office in Lagos."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

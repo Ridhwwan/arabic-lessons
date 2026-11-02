@@ -1,0 +1,156 @@
+{
+  "n": 5,
+  "date": "2026-10-29",
+  "title": "Your company and mine",
+  "titleAr": "شَرِكَتُكِ وَشَرِكَتِي",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "أَيْنَ هَاتِفِي؟",
+          "en": "Where is my phone?"
+        },
+        {
+          "ar": "الْمِفْتَاحُ فِي الْحَقِيبَةِ.",
+          "en": "The key is in the bag."
+        },
+        {
+          "ar": "اِسْمُهُ يُوسُفُ.",
+          "en": "His name is Yusuf."
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "مَسَاءَ الْخَيْرِ. أَنَا رِضْوَانُ.",
+          "en": "Good evening. I'm Ridhwan.",
+          "who": "أ"
+        },
+        {
+          "ar": "مَسَاءَ النُّورِ. أَنَا مَرْيَمُ.",
+          "en": "Good evening. I'm Maryam.",
+          "who": "ب"
+        },
+        {
+          "ar": "مَاذَا تَعْمَلِينَ يَا مَرْيَمُ؟",
+          "en": "What do you do, Maryam?",
+          "who": "أ"
+        },
+        {
+          "ar": "عِنْدِي شَرِكَةٌ صَغِيرَةٌ.",
+          "en": "I have a small company.",
+          "who": "ب"
+        },
+        {
+          "ar": "مَا اسْمُ شَرِكَتِكِ؟",
+          "en": "What's your company's name?",
+          "who": "أ"
+        },
+        {
+          "ar": "اِسْمُهَا نُورٌ، وَمَكْتَبُهَا فِي أَبُوجَا.",
+          "en": "Its name is Noor, and its office is in Abuja.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَأَنْتَ، هَلْ عِنْدَكَ شَرِكَةٌ؟",
+          "en": "And you, do you have a company?",
+          "who": "ب"
+        },
+        {
+          "ar": "نَعَمْ، عِنْدِي شَرِكَةُ بَرْمَجِيَّاتٍ فِي لَاغُوسَ.",
+          "en": "Yes, I have a software company in Lagos.",
+          "who": "أ"
+        },
+        {
+          "ar": "هٰذِهِ بِطَاقَتِي.",
+          "en": "This is my card.",
+          "who": "أ"
+        },
+        {
+          "ar": "شُكْرًا. وَهٰذِهِ بِطَاقَتِي.",
+          "en": "Thanks. And this is my card.",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. At a tech event, Ridhwan meets a woman named Maryam."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "مَا اسْمُكَ؟",
+          "en": "What's your name? Said to a man."
+        },
+        {
+          "ar": "مَا اسْمُكِ؟",
+          "en": "What's your name? Said to a woman."
+        },
+        {
+          "ar": "شَرِكَتُهُ فِي لَاغُوسَ.",
+          "en": "His company is in Lagos."
+        },
+        {
+          "ar": "شَرِكَتُهَا فِي أَبُوجَا.",
+          "en": "Her company is in Abuja."
+        }
+      ],
+      "note": "To say your to a woman, add ki instead of ka: ismuki, your name. Also, a word ending in taa marbuta turns that ending into a full t before any ending: sharika, a company, becomes sharikatee, my company."
+    },
+    {
+      "heading": "Word builder: the root ain, raa, faa, meaning knowing",
+      "lines": [
+        {
+          "ar": "عَرَفَ",
+          "en": "he knew"
+        },
+        {
+          "ar": "مَعْرُوفٌ",
+          "en": "well known, the thing that is known"
+        },
+        {
+          "ar": "تَعَارُفٌ",
+          "en": "getting to know each other"
+        },
+        {
+          "ar": "شَرِكَتُكِ مَعْرُوفَةٌ.",
+          "en": "Your company is well known. Said to a woman."
+        }
+      ],
+      "note": "You know faa-il, maf-al, maf-ool, fa-eel and mif-aal. Today's new pattern is tafaa-ul, an action people do with each other. Ta-aaruf means getting to know each other, exactly what happens at an event."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "هَلْ عِنْدَكَ شَرِكَةٌ؟",
+          "en": "Do you have a company?"
+        },
+        {
+          "ar": "نَعَمْ، عِنْدِي شَرِكَةُ بَرْمَجِيَّاتٍ.",
+          "en": "Model answer: Yes, I have a software company."
+        },
+        {
+          "ar": "أَيْنَ مَكْتَبُ شَرِكَتِكَ؟",
+          "en": "Where is your company's office?"
+        },
+        {
+          "ar": "مَكْتَبُ شَرِكَتِي فِي نَيْجِيرِيَا.",
+          "en": "Model answer: My company's office is in Nigeria."
+        },
+        {
+          "ar": "مَا اسْمُ زَمِيلَتِكَ؟",
+          "en": "What's your female colleague's name?"
+        },
+        {
+          "ar": "اِسْمُهَا فَاطِمَةُ، وَهِيَ مُصَمِّمَةٌ.",
+          "en": "Model answer: Her name is Fatima, and she's a designer."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

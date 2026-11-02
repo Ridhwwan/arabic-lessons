@@ -1,0 +1,156 @@
+{
+  "n": 3,
+  "date": "2026-10-27",
+  "title": "My family",
+  "titleAr": "عَائِلَتِي",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "مَا اسْمُكَ؟",
+          "en": "What's your name?"
+        },
+        {
+          "ar": "هٰذَا مَكْتَبِي.",
+          "en": "This is my office."
+        },
+        {
+          "ar": "هٰذِهِ زَمِيلَتِي.",
+          "en": "This is my colleague, a woman."
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "هَلْ عِنْدَكَ عَائِلَةٌ كَبِيرَةٌ؟",
+          "en": "Do you have a big family?",
+          "who": "أ"
+        },
+        {
+          "ar": "نَعَمْ، عِنْدِي أَخٌ وَأُخْتٌ.",
+          "en": "Yes, I have a brother and a sister.",
+          "who": "ب"
+        },
+        {
+          "ar": "مَا اسْمُ أُخْتِكَ؟",
+          "en": "What's your sister's name?",
+          "who": "أ"
+        },
+        {
+          "ar": "اِسْمُهَا عَائِشَةُ.",
+          "en": "Her name is Aisha.",
+          "who": "ب"
+        },
+        {
+          "ar": "مَاذَا تَعْمَلُ؟",
+          "en": "What does she do?",
+          "who": "أ"
+        },
+        {
+          "ar": "هِيَ طَبِيبَةٌ، وَزَوْجُهَا مُهَنْدِسٌ.",
+          "en": "She's a doctor, and her husband is an engineer.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَأَخُوكَ؟",
+          "en": "And your brother?",
+          "who": "أ"
+        },
+        {
+          "ar": "أَخِي طَالِبٌ، وَاسْمُهُ يُوسُفُ.",
+          "en": "My brother is a student, and his name is Yusuf.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَأَيْنَ أَبُوكَ وَأُمُّكَ؟",
+          "en": "And where are your father and mother?",
+          "who": "أ"
+        },
+        {
+          "ar": "أَبِي وَأُمِّي فِي لَاغُوسَ.",
+          "en": "My father and mother are in Lagos.",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. A friend asks Ridhwan about his family."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "اِسْمُهُ يُوسُفُ.",
+          "en": "His name is Yusuf."
+        },
+        {
+          "ar": "اِسْمُهَا عَائِشَةُ.",
+          "en": "Her name is Aisha."
+        },
+        {
+          "ar": "زَوْجُهَا مُهَنْدِسٌ.",
+          "en": "Her husband is an engineer."
+        },
+        {
+          "ar": "مَكْتَبُهُ هُنَا.",
+          "en": "His office is here."
+        }
+      ],
+      "note": "Add hu to the end of a noun to say his, and haa to say her. Ismuhu means his name, ismuhaa means her name. Notice that brother, akh, becomes akhoo before an ending, as in akhooka, your brother."
+    },
+    {
+      "heading": "Word builder: the root seen, ain, daal, meaning happiness",
+      "lines": [
+        {
+          "ar": "سَعِدَ",
+          "en": "he was happy"
+        },
+        {
+          "ar": "سَعِيدٌ",
+          "en": "happy, a quality"
+        },
+        {
+          "ar": "سَعَادَةٌ",
+          "en": "happiness"
+        },
+        {
+          "ar": "مَسْعُودٌ",
+          "en": "fortunate, the one made happy. Also a name"
+        }
+      ],
+      "note": "You know faa-il, the doer, maf-al, the place, and maf-ool, the one the action is done to. Today's new pattern is fa-eel, which often describes a quality. You already heard it in fursa sa-eeda, a happy chance."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "هَلْ عِنْدَكَ عَائِلَةٌ كَبِيرَةٌ؟",
+          "en": "Do you have a big family?"
+        },
+        {
+          "ar": "نَعَمْ، عِنْدِي عَائِلَةٌ كَبِيرَةٌ.",
+          "en": "Model answer: Yes, I have a big family."
+        },
+        {
+          "ar": "أَيْنَ أَبُوكَ وَأُمُّكَ؟",
+          "en": "Where are your father and mother?"
+        },
+        {
+          "ar": "أَبِي وَأُمِّي فِي نَيْجِيرِيَا.",
+          "en": "Model answer: My father and mother are in Nigeria."
+        },
+        {
+          "ar": "مَا اسْمُ صَدِيقِكَ؟",
+          "en": "What's your friend's name?"
+        },
+        {
+          "ar": "اِسْمُهُ أَحْمَدُ، وَهُوَ مُبَرْمِجٌ.",
+          "en": "Model answer: His name is Ahmad, and he's a programmer."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

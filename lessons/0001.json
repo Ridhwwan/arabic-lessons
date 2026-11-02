@@ -1,0 +1,133 @@
+{
+  "n": 1,
+  "date": "2026-10-23",
+  "title": "Greetings and introductions",
+  "titleAr": "التَّحِيَّةُ وَالتَّعَارُفُ",
+  "sections": [
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "السَّلَامُ عَلَيْكُمْ",
+          "en": "Peace be upon you.",
+          "who": "أ"
+        },
+        {
+          "ar": "وَعَلَيْكُمُ السَّلَامُ",
+          "en": "And upon you be peace.",
+          "who": "ب"
+        },
+        {
+          "ar": "كَيْفَ حَالُكَ؟",
+          "en": "How are you?",
+          "who": "أ"
+        },
+        {
+          "ar": "بِخَيْرٍ، وَالْحَمْدُ لِلَّهِ. وَأَنْتَ؟",
+          "en": "Fine, praise be to Allah. And you?",
+          "who": "ب"
+        },
+        {
+          "ar": "مَا اسْمُكَ؟",
+          "en": "What's your name?",
+          "who": "أ"
+        },
+        {
+          "ar": "اِسْمِي رِضْوَانُ.",
+          "en": "My name is Ridhwan.",
+          "who": "ب"
+        },
+        {
+          "ar": "مِنْ أَيْنَ أَنْتَ؟",
+          "en": "Where are you from?",
+          "who": "أ"
+        },
+        {
+          "ar": "أَنَا مِنْ نَيْجِيرِيَا.",
+          "en": "I'm from Nigeria.",
+          "who": "ب"
+        },
+        {
+          "ar": "فُرْصَةٌ سَعِيدَةٌ!",
+          "en": "Nice to meet you!",
+          "who": "أ"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "اِسْمُكَ",
+          "en": "your name"
+        },
+        {
+          "ar": "اِسْمِي",
+          "en": "my name"
+        },
+        {
+          "ar": "حَالُكَ",
+          "en": "your condition"
+        },
+        {
+          "ar": "حَالِي",
+          "en": "my condition"
+        }
+      ],
+      "note": "Add ka to the end of a noun to say your, when speaking to a man. Add ee to say my."
+    },
+    {
+      "heading": "Word builder: the root ain, meem, laam, meaning work",
+      "lines": [
+        {
+          "ar": "عَمِلَ",
+          "en": "he worked"
+        },
+        {
+          "ar": "عَمَلٌ",
+          "en": "work"
+        },
+        {
+          "ar": "عَامِلٌ",
+          "en": "a worker, the one who works"
+        },
+        {
+          "ar": "مَعْمَلٌ",
+          "en": "a factory or lab, the place of work"
+        }
+      ],
+      "note": "One root gives a family of words. The faa-il pattern means the person who does the action. The maf-al pattern means the place where it happens."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "كَيْفَ حَالُكَ؟",
+          "en": "How are you?"
+        },
+        {
+          "ar": "أَنَا بِخَيْرٍ، وَالْحَمْدُ لِلَّهِ.",
+          "en": "Model answer: I'm fine, praise be to Allah."
+        },
+        {
+          "ar": "مَا اسْمُكَ؟",
+          "en": "What's your name?"
+        },
+        {
+          "ar": "اِسْمِي رِضْوَانُ.",
+          "en": "Model answer: My name is Ridhwan."
+        },
+        {
+          "ar": "مَاذَا تَعْمَلُ؟",
+          "en": "What do you do for work?"
+        },
+        {
+          "ar": "أَنَا مُصَمِّمٌ وَمُبَرْمِجٌ.",
+          "en": "Model answer: I'm a designer and a programmer."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "n": 2,
+  "date": "2026-10-26",
+  "title": "This is my office",
+  "titleAr": "هٰذَا مَكْتَبِي",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "كَيْفَ حَالُكَ؟",
+          "en": "How are you?"
+        },
+        {
+          "ar": "مِنْ أَيْنَ أَنْتَ؟",
+          "en": "Where are you from?"
+        },
+        {
+          "ar": "فُرْصَةٌ سَعِيدَةٌ!",
+          "en": "Nice to meet you!"
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "مَا هٰذَا؟",
+          "en": "What is this?",
+          "who": "أ"
+        },
+        {
+          "ar": "هٰذَا مَكْتَبِي.",
+          "en": "This is my office.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَمَنْ هٰذِهِ؟",
+          "en": "And who is this?",
+          "who": "أ"
+        },
+        {
+          "ar": "هٰذِهِ زَمِيلَتِي فَاطِمَةُ.",
+          "en": "This is my colleague Fatima.",
+          "who": "ب"
+        },
+        {
+          "ar": "أَهْلًا يَا فَاطِمَةُ.",
+          "en": "Hello, Fatima.",
+          "who": "أ"
+        },
+        {
+          "ar": "أَهْلًا وَسَهْلًا.",
+          "en": "Welcome.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَمَنْ هٰذَا؟",
+          "en": "And who is this?",
+          "who": "أ"
+        },
+        {
+          "ar": "هٰذَا زَمِيلِي أَحْمَدُ، هُوَ مُبَرْمِجٌ.",
+          "en": "This is my colleague Ahmad. He's a programmer.",
+          "who": "ب"
+        },
+        {
+          "ar": "هَلْ هٰذَا حَاسُوبُكَ؟",
+          "en": "Is this your computer?",
+          "who": "أ"
+        },
+        {
+          "ar": "نَعَمْ، هٰذَا حَاسُوبِي.",
+          "en": "Yes, this is my computer.",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. A visitor comes to Ridhwan's office."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "هٰذَا مَكْتَبٌ.",
+          "en": "This is an office."
+        },
+        {
+          "ar": "هٰذِهِ سَيَّارَةٌ.",
+          "en": "This is a car."
+        },
+        {
+          "ar": "هٰذَا زَمِيلِي.",
+          "en": "This is my colleague, a man."
+        },
+        {
+          "ar": "هٰذِهِ زَمِيلَتِي.",
+          "en": "This is my colleague, a woman."
+        }
+      ],
+      "note": "Use haadhaa, this, for a masculine word, and haadhihi for a feminine word. Most feminine words end in taa marbuta, the a sound at the end, like zameela, a female colleague."
+    },
+    {
+      "heading": "Word builder: the root kaaf, taa, baa, meaning writing",
+      "lines": [
+        {
+          "ar": "كَتَبَ",
+          "en": "he wrote"
+        },
+        {
+          "ar": "كَاتِبٌ",
+          "en": "a writer, the one who writes"
+        },
+        {
+          "ar": "مَكْتَبٌ",
+          "en": "an office or desk, the place of writing"
+        },
+        {
+          "ar": "مَكْتُوبٌ",
+          "en": "written, or a letter, the thing that is written"
+        }
+      ],
+      "note": "You know faa-il, the doer, and maf-al, the place. Today's new pattern is maf-ool, the thing the action is done to. Maktoob means written, and also a letter."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "هَلْ هٰذَا مَكْتَبُكَ؟",
+          "en": "Is this your office?"
+        },
+        {
+          "ar": "نَعَمْ، هٰذَا مَكْتَبِي.",
+          "en": "Model answer: Yes, this is my office."
+        },
+        {
+          "ar": "مَنْ هٰذَا؟",
+          "en": "Who is this? Point at a colleague."
+        },
+        {
+          "ar": "هٰذَا زَمِيلِي، هُوَ مُصَمِّمٌ.",
+          "en": "Model answer: This is my colleague. He's a designer."
+        },
+        {
+          "ar": "هَلْ أَنْتَ مُبَرْمِجٌ؟",
+          "en": "Are you a programmer?"
+        },
+        {
+          "ar": "نَعَمْ، أَنَا مُبَرْمِجٌ وَمُصَمِّمٌ.",
+          "en": "Model answer: Yes, I'm a programmer and a designer."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}

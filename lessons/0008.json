@@ -1,0 +1,156 @@
+{
+  "n": 8,
+  "date": "2026-11-01",
+  "title": "He works, she works",
+  "titleAr": "هُوَ يَعْمَلُ وَهِيَ تَعْمَلُ",
+  "sections": [
+    {
+      "heading": "Quick review",
+      "lines": [
+        {
+          "ar": "أَشْرَبُ الشَّايَ.",
+          "en": "I drink tea."
+        },
+        {
+          "ar": "أَحْيَانًا أَعْمَلُ فِي الْبَيْتِ.",
+          "en": "Sometimes I work at home."
+        },
+        {
+          "ar": "مَا اسْمُكِ؟",
+          "en": "What's your name? Said to a woman."
+        }
+      ],
+      "note": "Say each phrase aloud before you hear the English."
+    },
+    {
+      "heading": "Dialogue",
+      "lines": [
+        {
+          "ar": "أَيْنَ أَحْمَدُ الْيَوْمَ؟",
+          "en": "Where is Ahmad today?",
+          "who": "أ"
+        },
+        {
+          "ar": "يَعْمَلُ فِي الْبَيْتِ الْيَوْمَ.",
+          "en": "He's working at home today.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَفَاطِمَةُ؟ هَلْ تَعْمَلُ فِي الْبَيْتِ أَيْضًا؟",
+          "en": "And Fatima? Is she working at home too?",
+          "who": "أ"
+        },
+        {
+          "ar": "لَا، هِيَ فِي الْمَكْتَبِ. تَرْسُمُ تَصْمِيمًا جَدِيدًا.",
+          "en": "No, she's at the office. She's drawing a new design.",
+          "who": "ب"
+        },
+        {
+          "ar": "هَلْ تَشْرَبُ الْقَهْوَةَ؟",
+          "en": "Does she drink coffee?",
+          "who": "أ"
+        },
+        {
+          "ar": "نَعَمْ، تَشْرَبُ الْقَهْوَةَ كُلَّ صَبَاحٍ.",
+          "en": "Yes, she drinks coffee every morning.",
+          "who": "ب"
+        },
+        {
+          "ar": "وَمَاذَا يَفْعَلُ أَحْمَدُ فِي الصَّبَاحِ؟",
+          "en": "And what does Ahmad do in the morning?",
+          "who": "أ"
+        },
+        {
+          "ar": "يَشْرَبُ الشَّايَ، ثُمَّ يَكْتُبُ الْبَرَامِجَ.",
+          "en": "He drinks tea, then he writes programs.",
+          "who": "ب"
+        },
+        {
+          "ar": "الْفَرِيقُ مُمْتَازٌ!",
+          "en": "The team is excellent!",
+          "who": "أ"
+        },
+        {
+          "ar": "شُكْرًا، وَالْحَمْدُ لِلَّهِ.",
+          "en": "Thanks, praise be to Allah.",
+          "who": "ب"
+        }
+      ],
+      "note": "Listen, then read it aloud. Play both roles. A friend asks Ridhwan about his team's day."
+    },
+    {
+      "heading": "How it works",
+      "lines": [
+        {
+          "ar": "يَكْتُبُ",
+          "en": "he writes"
+        },
+        {
+          "ar": "تَكْتُبُ",
+          "en": "she writes, or you write, to a man"
+        },
+        {
+          "ar": "هُوَ يَعْمَلُ فِي الْبَيْتِ.",
+          "en": "He works at home."
+        },
+        {
+          "ar": "هِيَ تَشْرَبُ الْقَهْوَةَ.",
+          "en": "She drinks coffee."
+        }
+      ],
+      "note": "For he, the present tense starts with ya: yaktubu, he writes. For she, it starts with ta: taktubu, she writes. That is the same form as you, to a man, so context tells you which one is meant."
+    },
+    {
+      "heading": "Word builder: the root raa, seen, meem, meaning drawing",
+      "lines": [
+        {
+          "ar": "رَسَمَ",
+          "en": "he drew"
+        },
+        {
+          "ar": "رَسْمٌ",
+          "en": "a drawing"
+        },
+        {
+          "ar": "رَسَّامٌ",
+          "en": "an artist, one who draws as a job"
+        },
+        {
+          "ar": "مَرْسَمٌ",
+          "en": "a studio, the place of drawing"
+        }
+      ],
+      "note": "You know maf-al, the place. Today's new pattern is fa-aal, with a doubled middle letter: someone who does the action as a job or a lot. Rassaam is an artist. Compare faa-il, which is simply the doer."
+    },
+    {
+      "heading": "Speak it",
+      "lines": [
+        {
+          "ar": "مَاذَا يَفْعَلُ زَمِيلُكَ فِي الصَّبَاحِ؟",
+          "en": "What does your colleague do in the morning?"
+        },
+        {
+          "ar": "زَمِيلِي يَشْرَبُ الْقَهْوَةَ، ثُمَّ يَعْمَلُ.",
+          "en": "Model answer: My colleague drinks coffee, then he works."
+        },
+        {
+          "ar": "أَيْنَ تَعْمَلُ زَمِيلَتُكَ؟",
+          "en": "Where does your female colleague work?"
+        },
+        {
+          "ar": "زَمِيلَتِي تَعْمَلُ فِي الْمَكْتَبِ فِي لَاغُوسَ.",
+          "en": "Model answer: My colleague works at the office in Lagos."
+        },
+        {
+          "ar": "هَلْ يَدْرُسُ أَخُوكَ؟",
+          "en": "Does your brother study?"
+        },
+        {
+          "ar": "نَعَمْ، أَخِي يَدْرُسُ فِي لَاغُوسَ.",
+          "en": "Model answer: Yes, my brother studies in Lagos."
+        }
+      ],
+      "note": "Answer each question aloud about yourself. Then listen to the model answer."
+    }
+  ]
+}
